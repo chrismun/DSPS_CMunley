@@ -1,3 +1,3 @@
-This GitHub repository contains Python code for analyzing and visualizing the El Niño Sea Surface Temperature dataset. The dataset is processed and analyzed using Gaussian Process Regression (GPR) to make temperature predictions for specific time points. The provided functions include flattening the dataset, visualizing it through line plots and heatmaps, performing GPR for temperature prediction, optimizing hyperparameters, and visualizing the GPR model's predictions. To use the code, clone the repository, install the required Python packages, and run the provided scripts. The code is licensed under the MIT License.
-
 I worked by myself.
+
+This project uses gaussian process regression with the El Nino sea surface temperature dataset to make daily predictions of the temperature from 1950 to 2030.
