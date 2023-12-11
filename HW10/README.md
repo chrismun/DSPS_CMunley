@@ -1,0 +1,3 @@
+This project delves into the application of physics-informed neural networks (PINNs) for solving complex partial differential equations, specifically focusing on Burger's Equation as a case study. We explore the integration of physics-based principles into the neural network's loss function, aiming to enhance prediction accuracy and model efficiency. The project comprehensively evaluates the performance of these PINNs through extensive training, fine-tuning of learning rates, and a detailed comparison of model predictions against known solutions across various time and spatial dimensions.
+
+I worked by myself.
